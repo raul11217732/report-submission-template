@@ -73,7 +73,7 @@ geometry : margin = 2cm
 </div>
 
 
-###  Authors 
+###  [Authors](#table-of-contents) 
 
 <font size = "2">
 
@@ -231,7 +231,7 @@ geometry : margin = 2cm
 
 
 
-### Documentation
+### [Documentation](#table-of-contents)
 
 
 Details of authorisers:-
@@ -268,7 +268,7 @@ Details of authorisers:-
 </div>
 
 
-###  Readability Indices 
+###  [Readability Indices](#table-of-contents) 
 
 #### Document Statistics
 
@@ -298,7 +298,7 @@ Details of authorisers:-
 
 
 
-### Abstract 
+### [Abstract](#table-of-contents) 
 
 - We are designing a modular energy generation system, which can be assembled completely or in parts depending on your geographical limitations and cost bearing capabilities.
 We have mentioned the requirements needed (geographical/structural/machinery wise etc..) for each portion of the system to be assembled , and the user can choose the model which fits his/her budget after checking their geographical compatibility. 
@@ -317,7 +317,7 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 </div>
 
 
-### To Do
+### [To Do](#table-of-contents)
 - First check the geographical and basic requirements of the system you wish to incorporate in your customized design,
 - Then check out if you can bear the one time installation and maintainence costs
 - After finalizing the selected systems based on the above two points, select the tier system for energy storage and distribution based on the energy generated in your system and the cost affordability.
@@ -330,10 +330,10 @@ We have mentioned the requirements needed (geographical/structural/machinery wis
 </div>
 
 
-### Designed System 
+### [Designed System](#table-of-contents) 
 	
 	
-#### 1. Wind
+#### 1. [Wind](#table-of-contents)
 
 ##### Requirements
 
@@ -524,7 +524,7 @@ After the completion of the mechanical design of the wind turbine, the next step
 
 
 
-#### 2. Solar
+#### 2. [Solar](#table-of-contents)
 
 ##### Requirements
 
@@ -679,7 +679,7 @@ This system is designed to fulfill requirements of a household without consuming
 
 
 
-#### 3. Mechanical 
+#### 3. [Mechanical](#table-of-contents) 
 
 ##### Requirements
 
@@ -781,7 +781,7 @@ https://www.analog.com/media/en/technical-documentation/application-notes/an19fc
 
 
 
-#### 4. Hydroelectricity
+#### 4. [Hydroelectricity](#table-of-contents)
 
 
 ##### Requirements
@@ -978,7 +978,7 @@ This figure shows connections of the various subsystem of the plant along with w
 
 
 
-#### 5. Piezoelectricity
+#### 5. [Piezoelectricity](#table-of-contents)
 
 
 ##### Requirements
@@ -1137,7 +1137,7 @@ Below are the CAD models and designs of the proposed piezoelectric energy harves
 
 
 
-#### 6. Thermoelectricity
+#### 6. [Thermoelectricity](#table-of-contents)
 
 
 ##### Requirements
@@ -1315,7 +1315,7 @@ Science (RSC Publishing).” n.d. Accessed January 25, 2022.
 </div>
 
 
-#### 7. Electricity from biogas
+#### 7. [Electricity from biogas](#table-of-contents)
 
 ##### Requirements
 
@@ -1464,7 +1464,7 @@ black box) through electrical wires.
 
 
 
-#### 8. Reuse of wated heat
+#### 8. [Reuse of wated heat](#table-of-contents)
 
 ##### Requirements
 
@@ -1565,7 +1565,7 @@ Therefore, the system is a one time installment which will work for years.
 
 
 
-### 9. Energy Storage And Distribution
+### 9. [Energy Storage And Distribution](#table-of-contents)
 
 ##### Requirements
 
